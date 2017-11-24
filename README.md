@@ -1,6 +1,6 @@
 
 # Basic AMP
-> These are the source code files my [Basic AMP](basic-amp.firebaseapp.com/article.amp.html).
+> These are the source code files my [Basic AMP](https://basic-amp.firebaseapp.com/article.amp.html).
 
 
 [![NPM Version][npm-image]][npm-url]
