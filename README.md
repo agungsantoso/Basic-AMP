@@ -1,24 +1,31 @@
-# accelerated-mobile-pages-foundations
 
-This folder contains the source code for a Google I/O 2016 codelab.
+# Basic AMP
+> These are the source code files my [Basic AMP](basic-amp.firebaseapp.com/article.amp.html).
 
-### License
 
-```
-Copyright 2016 Google, Inc.
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements. See the NOTICE file distributed with this work for
-additional information regarding copyright ownership. The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License. You may obtain a copy of
-the License at
+This is a work in progress, if you find a mistake, please [file an issue](https://github.com/agungsantoso/Basic-AMP/issues). Thanks!
 
-http://www.apache.org/licenses/LICENSE-2.0
+![](screenshot.png)
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations under
-the License.
-```
+## Usage example
+
+
+## Development setup
+
+
+## Release History
+
+* 0.0.1
+    * Work in progress
+
+<!-- Markdown link & img dfn's -->
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
+[wiki]: https://github.com/yourname/yourproject/wiki
